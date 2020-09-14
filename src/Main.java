@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hi, my name is Liam");
 		System.out.println("My favourite colour is purple");
+		System.out.println("My favourite mode of transportation is cars");
 	}
 
 }
